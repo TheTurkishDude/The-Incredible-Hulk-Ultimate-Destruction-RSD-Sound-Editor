@@ -11,10 +11,6 @@ Command Prompt needed. The command line is still there if you want it.
 
 > **The Tool Is Made By TheTurkishDude**
 
-![Waveform export from the viewer](docs/waveform-example.png)
-
-*Waveform export from `view -p` (a generated test sound, not game audio).*
-
 ## Features
 
 - **Decode** `RADP`, `VAG`, `PCM` and `PCMB` RSD files to standard WAV
@@ -209,7 +205,3 @@ This is an unofficial fan/modding tool. It is not affiliated with or endorsed by
 Entertainment, Activision, Sony or any rights holder. *The Incredible Hulk: Ultimate Destruction*,
 Pure3D and related names belong to their respective owners. Use it only with files you are entitled
 to modify.
-
-## License
-
-[MIT](LICENSE) (c) 2026 TheTurkishDude
